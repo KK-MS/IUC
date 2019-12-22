@@ -40,3 +40,8 @@ For example, National Skill Development Corporation has collaborated with privat
 
 D. PPP Model in Education
 
+Under this model, education is treated as a public good with private sector participation. PPP in education is a marriage between non- profit activities and for-profit administration of such occupations (educational institutions). 
+The Supreme Court of India has, in the case of T.M.A Pai Foundation91 stated that education is a non-profit activity and institutions are under an obligation to not profiteer from such occupation; making reasonable surplus from such occupation is however allowed.
+In light of the same, PPP in higher education can be used for the following: Providing infrastructure and facilities Providing investments Providing capacities for future expansion Moreover, 
+
+Several business models have also been developed by private players to increase participation in higher education sector. Few of the models are mentioned herein-below: 
