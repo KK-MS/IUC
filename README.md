@@ -51,4 +51,14 @@ Several business models have also been developed by private players to increase 
 *Sub-Model III – Equity or Hybrid Model
 *Sub-Model IV– Reverse Outsourcing Model
 
-While there has been considerable amount of experimentation with some success stories in school education and in the vocational- education and skill- development sectors, very few PPP models have been tried out in the field of education. Thus, in order to facilitate models for industry-institute interface and to ensure local and regional development of the areas, large education hubs could be created in different parts of the country anchored by large public/private sector enterprises funded through their allocations for corporate social responsibility with free provision of land and other essentials by the State governments concerned.9
+While there has been considerable amount of experimentation with some success stories in school education and in the vocational- education and skill- development sectors, very few PPP models have been tried out in the field of education. Thus, in order to facilitate models for industry-institute interface and to ensure local and regional development of the areas, large education hubs could be created in different parts of the country anchored by large public/private sector enterprises funded through their allocations for corporate social responsibility with free provision of land and other essentials by the State governments concerned.
+
+
+E. Online Education 
+
+Another new space of growth is the online education sector, 
+which is witnessing investments, and entry of new providers through new initiatives and acquisitions.
+Since the programmes are offered online, they are not only low cost but are at times self- paced. 
+It is also preferred by students who are unable to access physical centers.
+As per a report published by KPMG, India’s online education industry is expected to grow almost eight times to hit $1.96b by 2021.
+The paid user is expected to increase from ~1.6m users in 2016 to ~9.6m in 2021.93 Primarily, there are five business models which are growing at a rapid pace in the ed-tech sector in India,: 
