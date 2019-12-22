@@ -25,3 +25,7 @@ Foreign investments can primarily be made into companies providing educational a
 
 II. Other Segments of Investment in the Education Space Investment in the education space is not limited to only the K-12 and the higher education segments. There are other segments such as vocational training and tutoring services which have been attracting a great amount of interest amongst investors largely due their unregulated environment in which they operate.
 
+A. Vocational Training A number of studies have indicated that a significant portion of students graduating from colleges are not readily employable in industries such as IT/ITES.
+
+Vocational courses providing employable skills are, thus, in great demand. Private participation occurs mostly in niche training centers relating to IT and hospitality. The IT training market is one of the biggest sections in the * vocational course segment and is estimated to run into multi-million USD.* This market, being outside the purview of Government regulation, is attractive for entrepreneurial participation.
+
