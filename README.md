@@ -62,3 +62,11 @@ Since the programmes are offered online, they are not only low cost but are at t
 It is also preferred by students who are unable to access physical centers.
 As per a report published by KPMG, India’s online education industry is expected to grow almost eight times to hit $1.96b by 2021.
 The paid user is expected to increase from ~1.6m users in 2016 to ~9.6m in 2021.93 Primarily, there are five business models which are growing at a rapid pace in the ed-tech sector in India,: 
+primary and secondary supplement education; 
+test preparation; 
+reskilling and online certifications;
+higher education and language; and 
+casual learning.
+
+As pet the report published by KPMG, reskilling and online certification has the maximum paid users i.e. approximately 499,000.
+
