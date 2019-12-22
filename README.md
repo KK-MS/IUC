@@ -45,3 +45,10 @@ The Supreme Court of India has, in the case of T.M.A Pai Foundation91 stated tha
 In light of the same, PPP in higher education can be used for the following: Providing infrastructure and facilities Providing investments Providing capacities for future expansion Moreover, 
 
 Several business models have also been developed by private players to increase participation in higher education sector. Few of the models are mentioned herein-below: 
+
+*Sub-Model I – Basic Infrastructure Model
+*Sub-Model II – Outsourcing Model
+*Sub-Model III – Equity or Hybrid Model
+*Sub-Model IV– Reverse Outsourcing Model
+
+While there has been considerable amount of experimentation with some success stories in school education and in the vocational- education and skill- development sectors, very few PPP models have been tried out in the field of education. Thus, in order to facilitate models for industry-institute interface and to ensure local and regional development of the areas, large education hubs could be created in different parts of the country anchored by large public/private sector enterprises funded through their allocations for corporate social responsibility with free provision of land and other essentials by the State governments concerned.9
