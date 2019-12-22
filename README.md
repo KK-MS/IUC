@@ -35,4 +35,8 @@ The ability to deliver consistent quality of teaching and the ability to cater t
 
 C. Delivering Educational Services to Students on a for-Profit Basis.
 
-This model can provide opportunities to 
+This model can provide opportunities to formal educational institutions as well as educational entrepreneurs to provide variety of services such as training, skill development, courses on employability enhancements etc. - areas that are presently outside the purview of regulations governing education sector. 
+For example, National Skill Development Corporation has collaborated with private sector through a PPP programme to provide educational modules on employability. 
+
+D. PPP Model in Education
+
