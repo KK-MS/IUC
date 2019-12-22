@@ -16,3 +16,7 @@ The progressive development has attracted the eye of private equity players and 
 
 Interest is increased much as it balances investor returns with social responsibilities.
 
+
+4. Foreign Investment in the Education Sector
+
+While these factors impact investments in the regulated aspect of education sector to some extent, this, however, does not deter investments in education service provider companies, Ed-tech companies etc, which are currently not regulated. Such entities and businesses are not required to be of a not-for- profit character and are also not required to comply with education sector specific laws.
