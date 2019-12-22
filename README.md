@@ -29,3 +29,10 @@ A. Vocational Training A number of studies have indicated that a significant por
 
 Vocational courses providing employable skills are, thus, in great demand. Private participation occurs mostly in niche training centers relating to IT and hospitality. The IT training market is one of the biggest sections in the * vocational course segment and is estimated to run into multi-million USD.* This market, being outside the purview of Government regulation, is attractive for entrepreneurial participation.
 
+B. Tutoring & Test Preparation Services.
+
+The ability to deliver consistent quality of teaching and the ability to cater to the varying needs of each student are key challenges to scalability of the business. Scalability may, however, be achieved by the use of technology to deliver content, for assessment and benchmarking and to enable students undertake self-pace learning. Apart from the challenge of scalability, the industry also faces the problem of being highly fragmented. Scalability and profitability will, thus, require a significant commitment from the investors who understand that to build such a business, significant investments from time to time, and a long investment horizon would be required.
+
+C. Delivering Educational Services to Students on a for-Profit Basis.
+
+This model can provide opportunities to 
