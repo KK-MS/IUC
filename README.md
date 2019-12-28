@@ -20,3 +20,8 @@
 3. Education strengthens the economy.
 4. Influences teenage behavior.
 5. Strengths the communities.
+
+TODO:
+* Ethical issues at the university-industry interface: A way forward?
+
+https://link.springer.com/article/10.1007/s11948-003-0015-z
