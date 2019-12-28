@@ -13,3 +13,10 @@
     4. PPP Model: Infrastructure, expansion, Outsourcing, etc.
     5. **Online education.**: Grows almost **eight times** to hit $1.96b by 2021
 
+## [College return on investment, 2018, Indiana](./College_return_on_investment_2018_Indiana.md)
+- Indiana commission for Higher education.
+1. College is worth the cost.
+2. Higher education fee and no jobs
+3. Education strengthens the economy.
+4. Influences teenage behavior.
+5. Strengths the communities.
