@@ -1,6 +1,6 @@
 # IUC
 
-## Investment in Education Sector, 2018, India.
+## [Investment in Education Sector, 2018, India.](./Investment_in_Education_Sector_2018_India.md)
 - Nishith Desai Assochates.
 
 1. Education system changed as an Industry.
