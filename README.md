@@ -11,5 +11,5 @@
     2. Tutoring, Test preparation services.
     3. Education servces: Skill development, employability enhancements, etc.
     4. PPP Model: Infrastructure, expansion, Outsourcing, etc.
-    5. **Online education.**: Grows almost eight times to hit $1.96b by 2021
+    5. **Online education.**: Grows almost **eight times** to hit $1.96b by 2021
 
