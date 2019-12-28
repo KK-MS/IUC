@@ -7,8 +7,8 @@
 2. Model: The Public Private Partnership (“PPP”)
 3. Investment by Foreign Education Institutions (FEI), Foreign Direct Investment (FDI) into PPP
 4. Investor interest:
-  * Vocational Training
-  * Tutoring, Test preparation services
-  * Education servces: Skill development, employability enhancements, etc.
-  * PPP Model: Infrastructure, expansion, Outsourcing, etc.
-  * Online education.
+    4.1. Vocational Training
+    4.2. Tutoring, Test preparation services
+    4.3. Education servces: Skill development, employability enhancements, etc.
+    4.4. PPP Model: Infrastructure, expansion, Outsourcing, etc.
+    4.5. *Online education.*
